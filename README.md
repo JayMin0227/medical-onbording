@@ -18,4 +18,5 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認
 
 論文URL: https://www.medrxiv.org/content/10.1101/2024.01.18.24301494v1
 
+前処理前の画像を示します。
 ![前処理前の画像](./前処理前の画像.png)
