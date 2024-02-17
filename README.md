@@ -25,20 +25,3 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認
     <img width="300px" src="./前処理前の画像.png" />
   </a>
 </p>
-
-前処理後の画像を示します。左から冠状面, 横断面, 矢状面です。
-<p align="center">
-  <a href="./冠状面.pdf">
-    <img width="300px" src="./冠状面.pdf" />
-  </a>
-</p>
-<p align="center">
-  <a href="./横断面.pdf">
-    <img width="300px" src="./横断面.pdf" />
-  </a>
-</p>
-<p align="center">
-  <a href="./矢状面.pdf">
-    <img width="300px" src="./矢状面.pdf" />
-  </a>
-</p>
