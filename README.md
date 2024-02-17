@@ -25,3 +25,21 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認
     <img width="300px" src="./前処理前の画像.png" />
   </a>
 </p>
+
+<p align="center">
+  <a href="./冠状面.png">
+    <img width="300px" src="./冠状面.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./横断面.png">
+    <img width="300px" src="./横断面.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./矢状面.png">
+    <img width="300px" src="./矢状面.png" />
+  </a>
+</p>
