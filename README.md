@@ -13,7 +13,7 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認
 - Coginively Normal(CN): 健常者
 - Mild Cognitive Impairment(MCI): 軽度認知障害患者
 
-### 前処理
+# 前処理
 提供されているADNIデータセットには、macky先輩が作成したOpen-MAPT1手法を用いて前処理を施しています。皆が見るデータはこの手法を用いて非脳組織が除去されたものになっていると思います。
 
 論文URL: https://www.medrxiv.org/content/10.1101/2024.01.18.24301494v1
