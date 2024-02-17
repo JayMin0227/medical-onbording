@@ -9,6 +9,6 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI): 軽度認知障害やアル
 
 ### クラスラベル
 今回使用するクラスラベルを下記に示します。
-- AD: アルツハイマー病患者
-- CN: 健常者
-- MCI: 軽度認知障害患者
+- Alzheimer’s Disease(AD): アルツハイマー病患者
+- Coginively Normal(CN): 健常者
+- Mild Cognitive Impairment(MCI): 軽度認知障害患者
