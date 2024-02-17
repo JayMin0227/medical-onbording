@@ -20,6 +20,7 @@ Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認
 
 前処理前の画像を示します。
 
+<p align="center">
   <a href="./前処理前の画像.png">
     <img width="500px" src="./前処理前の画像.png" />
   </a>
