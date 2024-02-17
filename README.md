@@ -3,7 +3,8 @@
 
 # Dataset 
 ### データセット発行元の紹介
-Alzheimer’s Disease Neuroimaging Initiative(ADNI): 軽度認知障害やアルツハイマーの研究を目的として収集された脳MR画像のデータセット
+Alzheimer’s Disease Neuroimaging Initiative(ADNI)データセット: 軽度認知障害やアルツハイマーの研究を目的として収集された脳MR画像のデータセットです
+
 公式サイト: https://adni.loni.usc.edu/
 
 ### クラスラベル
