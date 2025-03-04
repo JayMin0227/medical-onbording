@@ -983,6 +983,7 @@ dependencies = [
     { name = "torch" },
     { name = "torchio" },
     { name = "torchvision" },
+    { name = "umap" },
 ]
 
 [package.metadata]
@@ -998,6 +999,7 @@ requires-dist = [
     { name = "torch", specifier = ">=2.6.0" },
     { name = "torchio", specifier = ">=0.20.4" },
     { name = "torchvision", specifier = ">=0.21.0" },
+    { name = "umap", specifier = ">=0.1.1" },
 ]
 
 [[package]]
@@ -2143,6 +2145,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/43/0f/fa4723f22942480be
 wheels = [
     { url = "https://files.pythonhosted.org/packages/0f/dd/84f10e23edd882c6f968c21c2434fe67bd4a528967067515feca9e611e5e/tzdata-2025.1-py2.py3-none-any.whl", hash = "sha256:7e127113816800496f027041c570f50bcd464a020098a3b6b199517772303639", size = 346762 },
 ]
+
+[[package]]
+name = "umap"
+version = "0.1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/4b/46/08ab68936625400fe690684428d4db4764f49b406782cc133df1d0299d06/umap-0.1.1.tar.gz", hash = "sha256:5d08c1a335cc7ee175811a99dc9356d3d4b8567ad082e2b1b205198cf27c4256", size = 3191 }
 
 [[package]]
 name = "uri-template"
